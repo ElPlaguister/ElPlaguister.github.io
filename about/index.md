@@ -2,6 +2,7 @@
 layout: page
 current: about
 title: About
+cover: assets/images/blog-icon.png
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
