@@ -11,7 +11,7 @@ subclass: 'post tag-fiction'
 author: skyksit
 ---
  
-글 내용을 여기 적는~~다
+글 내용을 여기 적는다
 # Hello
 > No
 
