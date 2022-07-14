@@ -6,7 +6,7 @@ language: 'ko-kr'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /home/
+baseurl: /
 
 # Website info
 title: El Plaguister
@@ -27,7 +27,7 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: krtiias # replace with your disqus username
+disqus_shortname: kritias # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -72,23 +72,21 @@ repo: elplaguister.github.io
 branch: master
 relative_source: ../elplaguister/
 destination: ../elplaguister-pages/
-production_url:  https://elplaguister.github.io/home/
+production_url:  https://elplaguister.github.io/
 source_url:  https://github.com/elplaguister/elplaguister.github.io/
 
 exclude:
-  - assets/css
+ # - assets/css
   - node_modules
   - vendor
   - .travis.yml
   - Gemfile
   - Gemfile.lock
-  - GHOST.txt
   - gulpfile.js
   - LICENSE
   - package.json
   - package-lock.json
   - Rakefile
-  - README.md
   - script.py
   - changelog.md
   - "*.Rmd"
