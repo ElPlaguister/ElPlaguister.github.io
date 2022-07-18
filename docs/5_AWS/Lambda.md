@@ -11,6 +11,7 @@ has_toc: true
 {: .no_toc }
 
 ![Lambda.jpeg](https://imgur.com/RFGHFDv.jpg)
+<a href="https://imgur.com/RFGHFDv"><img src="https://imgur.com/RFGHFDv.jpg" title="source: imgur.com" /></a>
 
 서버를 [Provisioning](https://www.notion.so/Provisioning-98dfc3c7549848a18fb7bfdece06e2f5) 하거나 관리하지 않고도 코드를 실행할 수 있게 해주는 클라우드 컴퓨팅 서비스.
 
