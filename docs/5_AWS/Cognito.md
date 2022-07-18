@@ -9,7 +9,7 @@ has_toc: true
 
 # Introduction
 
-![Cognito_Logo.jpeg](https://imgur.com/xuCqBhd)
+![Cognito_Logo.jpeg](https://imgur.com/xuCqBhd.jpg)
 
 Cognito는 웹 및 모바일 앱에 대한 인증, 권한 부여 및 사용자 관리를 제공한다.
 
