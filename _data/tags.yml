@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+AWS:
+  name: AWS
+  description: Solo study for AWS
+  cover: False
