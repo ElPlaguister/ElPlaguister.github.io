@@ -15,7 +15,7 @@ author: kritias
 
 ## Introduction
 
-![Cognito_Logo.jpeg](_data/asset/images/AWS/Cognito_Logo.jpeg)
+![Cognito_Logo.jpeg](_data/assets/images/AWS/Cognito_Logo.jpeg)
 
 Cognito는 웹 및 모바일 앱에 대한 인증, 권한 부여 및 사용자 관리를 제공한다.
 
