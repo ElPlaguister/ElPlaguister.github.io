@@ -10,6 +10,8 @@ has_toc: true
 # Lambda
 {: .no_toc }
 
+![Lambda.jpeg](https://imgur.com/RFGHFDv)
+
 서버를 [Provisioning](https://www.notion.so/Provisioning-98dfc3c7549848a18fb7bfdece06e2f5) 하거나 관리하지 않고도 코드를 실행할 수 있게 해주는 클라우드 컴퓨팅 서비스.
 
 고가용성 컴퓨팅 인프라에서 아래와 같은 거의 모든 컴퓨팅 기능을 수행함
